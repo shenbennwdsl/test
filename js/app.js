@@ -3,7 +3,7 @@
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm'
 
 // 配置 Supabase
-const SUPABASE_URL = 'https://ogxfhpijzcsgpihpxbfc.supabase.co';
+const SUPABASE_URL = 'https://pbhvfhgoafwkuvwmqvec.supabase.co';
 const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9neGZocGlqemNzZ3BpaHB4YmZjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDgzMzQ0MzksImV4cCI6MjA2MzkxMDQzOX0.hvr6L_EHNq1W4882gKnVWsEFe_UkDMeQxOVi03N_yTU';
 const ITEMS_PER_PAGE = 10;
 // 初始化 Supabase 客户端
